@@ -1,3 +1,5 @@
+New to coding so any advice/suggestions would be greatly appreciated 
+Trying to make a:
 ### 📊 Stock Dashboard – Financial Analysis Tool
 
 A complete Python tool that generates a professional Excel dashboard for any stock ticker using real-time data from Yahoo Finance.
