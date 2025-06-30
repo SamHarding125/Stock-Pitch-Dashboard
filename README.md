@@ -7,7 +7,7 @@ A complete Python tool that generates a professional Excel dashboard for any sto
 Built for equity research, investment analysis, and personal due diligence.
 
 
-### 🚀 Features
+### 🚀 Currently Features:
 
 ### 🔍 Fundamental Analysis
 - **Valuation**: P/E, P/S, P/B, EV/EBITDA, EPS, Market Cap
