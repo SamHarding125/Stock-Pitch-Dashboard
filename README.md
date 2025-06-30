@@ -1,11 +1,11 @@
-📊 Stock Dashboard – Financial Analysis Tool
+### 📊 Stock Dashboard – Financial Analysis Tool
 
 A complete Python tool that generates a professional Excel dashboard for any stock ticker using real-time data from Yahoo Finance.
 
 Built for equity research, investment analysis, and personal due diligence.
 
 
-🚀 Features
+### 🚀 Features
 
 ### 🔍 Fundamental Analysis
 - **Valuation**: P/E, P/S, P/B, EV/EBITDA, EPS, Market Cap
